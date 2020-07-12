@@ -4,7 +4,7 @@ Draw the Mandelbrot set using single thread CPU, multi-thread CPU, and GPU.
 ![Mandelbrot set](mandelbrot.jpg "Mandelbrot set")
 
 ## Requirements
-* OpenCL 4.3.0
+* OpenCV 4.3.0
 * Threading Building Blocks (TBB) v2020.2 [for multi-thread]
 * CUDA Toolkit 11.0 [for GPU]
 
