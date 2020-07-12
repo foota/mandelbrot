@@ -1,4 +1,4 @@
-// madelbrot  by N. Futatsugi, 2020.06.18
+// Mandelbrot set (GPU) by N. Futatsugi, 2020.06.18
 
 #include <iostream>
 #include <fstream>
@@ -14,7 +14,6 @@ const int BLOCK_SIZE_Y = 16;
 __device__
 uchar4 coloring(int n)
 {
-	//const float ratio = 3.2f;
 	const float ratio = 4.5f;
 	const int H = 176;
 	const int S = 128;

@@ -1,4 +1,4 @@
-// madelbrot using TBB  by N. Futatsugi, 2011.02.02, 2020.06.27
+// Mandelbrot set (multi-thread) by N. Futatsugi, 2011.02.02, 2020.06.27
 
 #include <iostream>
 #include <fstream>

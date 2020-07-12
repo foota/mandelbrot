@@ -1,4 +1,4 @@
-// madelbrot  by N. Futatsugi, 2011.01.22, 2020.06.27
+// Mandelbrot set (single-thread) by N. Futatsugi, 2011.01.22, 2020.06.27
 
 #include <iostream>
 #include <fstream>
